@@ -1,0 +1,25 @@
+.nav_container{
+    background-color:burlywood;
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+list-style-type: none;
+display: flex;
+}
+.nav_min_container{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.table_container{
+    background-image:linear-gradient(to right,lightred,white)
+}
+.logo_image{
+    height:50px;
+    width:50px;
+    margin:15px;
+}
+.list_item{
+    margin-right: 10px;
+}
